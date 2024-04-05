@@ -31,4 +31,14 @@ To access the Superstore Analytics Dashboard, simply download the Tableau file a
 18. **Create a dashboard on Superstore Analytics as per provided specifications.**
 
 
+![Dashboard 1 preview](https://github.com/Ratan001github/Superstore_Dashboard_Tableau/blob/main/Screenshot%20(379).png)
+
+
+
+
+
+
+![Dashboard 2 preview](https://github.com/Ratan001github/Superstore_Dashboard_Tableau/blob/main/Screenshot%20(380).png)
+
+
 
